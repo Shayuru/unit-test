@@ -1,1 +1,8 @@
 Test file
+Webminar
+https://global.gotowebinar.com/join/5545488454585781516/276730367
+
+System requirements
+https://link.gotowebinar.com/av-confirmation?role=attendee&source=registrationConfirmationEmail&language=english&experienceType=BROADCAST
+https://support.goto.com/training/help/system-requirements-for-attendees-g2t010003?c_prod=g2t&c_name=iph
+http://aws.amazon.com/console/faqs/ 

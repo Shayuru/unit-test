@@ -11,3 +11,6 @@ Migrating to AWS
 https://www.aws.training/SignIn?returnUrl=%2flearningobject%2filt%3fid%3d49021
 https://www.aws.training/SignIn?returnUrl=%2flearningobject%2filt%3fid%3d49021
 https://attendee.gotowebinar.com/cancel/5545488454585781516/1328524912638309134
+
+Google Kubernetes
+https://www.youtube.com/watch?v=48xQONUwGRM&feature=youtu.be

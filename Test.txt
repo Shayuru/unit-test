@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=48xQONUwGRM&feature=youtu.be
 https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Pivotal/vsextensions/vscode-spring-boot/1.19.0/vspackage
 https://s3-us-west-1.amazonaws.com/s3-test.spring.io/sts4/vscode-extensions/snapshots/vscode-spring-boot-1.20.0-202007211818.vsix
 https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/0.59.1/vspackage
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.22.0/vspackage

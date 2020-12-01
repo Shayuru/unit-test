@@ -17,3 +17,6 @@ $("#get-html-from-other-s3").load("loadpage.html")
 
 loadpage.html
 <h2>The Page Has Loaded Successfully Cloud Gurus!!</h2></body></html>
+
+Lamda
+https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Serverless_Webite_Demo

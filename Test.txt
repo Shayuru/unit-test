@@ -29,3 +29,6 @@ https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vse
         <AllowedHeader>Authorization</AllowedHeader>
     </CORSRule>
 </CORSConfiguration>
+
+AWS Training
+https://www.aws.training/account/logonoptions?returnUrl=%2flearningobject%2filt%3fid%3d64869

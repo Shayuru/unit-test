@@ -34,3 +34,5 @@ AWS Training
 https://www.aws.training/account/logonoptions?returnUrl=%2flearningobject%2filt%3fid%3d64869
 Go to training
 https://support.goto.com/training/help/how-to-join-a-training-g2t030002
+
+Test
